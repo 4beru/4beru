@@ -30,38 +30,24 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
   <img src="https://img.shields.io/badge/Oreilly-%23D3002D.svg?style=for-the-badge&logo=oreilly&logoColor=white" alt="O'Reilly" />
 </p>
 
-### Projects
+### 🪐 Where ideas find their space
 
-<img
-  align="right"
-  width="40%"
-  src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
-  alt="Most Used Languages"
-/>
+<p align="justify">
 
+**[Zen Space](https://github.com/4beru/zen-homepage-ink)** is my independent creative venture, built around a simple idea: great digital experiences should feel as thoughtful as they are functional. It's a home for my selected work, creative explorations, and the ideas and inspirations that shape how I think, design, and build. More than a portfolio, it's a glimpse into my perspective and what we could create together.
 
-[Zen Space](https://github.com/4beru/zen-homepage-ink) — Creative digital experiences with Nuxt, GSAP, and motion design.<br>
-[Fluent Kit](https://github.com/4beru/qt6-fluent-kit) — A cross-platform Fluent-style UI component library for Qt6 and C++.<br>
-[Codebase Topography](https://github.com/4beru/codebase-topography) — Exploring codebases as interactive 2D maps and 3D cities.<br>
-[Algorithm Visualizer](https://github.com/4beru/algorithm-visualizer) — Visual experiments with sorting and pathfinding algorithms.<br>
-[Aberu Blog](https://github.com/4beru/aberu-blog) — Notes and long-form writing about software engineering.<br>
-And more in my [repositories](https://github.com/4beru?tab=repositories).
+  <p align="right">
+    elsewhere ↗ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
+  </p>
 
-<br clear="right">
-
-<p align="right">
-  more @ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
 </p>
 
-
-
-
-
-
-
-
-<p align="right">
-  more @ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
+    alt="Most Used Languages"
+    width="40%"
+  />
 </p>
 
 <p align="center">
