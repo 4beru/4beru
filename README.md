@@ -42,3 +42,32 @@ And more in my [repositories](https://github.com/4beru?tab=repositories).
 <p align="right">
   more @ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
 </p>
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
+    alt="Most Used Languages"
+    width="40%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy-4beru.vercel.app/?username=4beru&amp;title=MultiLanguage,Commits,Repositories,PullRequest&amp;theme=onedark&amp;column=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <img
+    src="./github-achievements.svg"
+    alt="GitHub Achievements"
+    width="95%"
+  />
+</p>
+
+
