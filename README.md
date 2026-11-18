@@ -40,7 +40,7 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
     <img
       src="./game.gif"
       alt="GitHub Space Shooter"
-      width="80%"
+      width="75%"
     />
   </p>
 
