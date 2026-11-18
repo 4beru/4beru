@@ -16,12 +16,14 @@
 
 <br clear="left">
 
-**↖ Aberu — software with intention**<br>
-I build software where engineering meets design.<br>
-Native apps, developer tools, systems, and creative web experiences.<br>
+#### 🐈 Somewhere between code and creativity
+
+Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas.
+I love crafting apps, exploring creative interfaces, and figuring out how things work.
+Always curious, usually working on some side project, and constantly learning something new.
+Outside of coding, I enjoy meeting new people, sharing ideas, and having a good time.
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Nix](https://img.shields.io/badge/NIX-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=D04A37)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
