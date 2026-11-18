@@ -40,7 +40,7 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
     <img
       src="./game.gif"
       alt="GitHub Space Shooter"
-      width="70%"
+      width="80%"
     />
   </p>
 
@@ -58,13 +58,6 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 I've always enjoyed learning by building things. What started as small experiments gradually turned into projects, new skills, and different ways of thinking. Along the way, I've explored technologies, made mistakes, and discovered what I truly enjoy creating. These numbers are just a small glimpse of that ongoing journey.
 </p>
 
-<p align="center">
-  <img
-    src="./game.gif"
-    alt="GitHub Space Shooter"
-    width="90%"
-  />
-</p>
 
 <p align="center">
   <img
@@ -79,12 +72,3 @@ I've always enjoyed learning by building things. What started as small experimen
     alt="GitHub Trophies"
   />
 </p>
-
-<p align="center">
-  <img
-    src="./github-achievements.svg"
-    alt="GitHub Achievements"
-    width="65%"
-  />
-</p>
-
