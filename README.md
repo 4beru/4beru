@@ -50,14 +50,6 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 </p>
 
-<p align="center">
-  <img
-    src="./github-achievements.svg"
-    alt="GitHub Achievements"
-    width="45%"
-  />
-</p>
-
 ---
 
 ### 👾 The journey so far
@@ -87,3 +79,12 @@ I've always enjoyed learning by building things. What started as small experimen
     alt="GitHub Trophies"
   />
 </p>
+
+<p align="center">
+  <img
+    src="./github-achievements.svg"
+    alt="GitHub Achievements"
+    width="65%"
+  />
+</p>
+
