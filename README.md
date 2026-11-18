@@ -18,7 +18,7 @@
 
 #### 🐈 Somewhere between code and creativity
 
-<p align="justify" width="71%">
+<p align="justify">
   Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas.
   I love crafting apps, exploring creative interfaces, and figuring out how things work.
   Always curious, usually working on some side project, and constantly learning something new.
