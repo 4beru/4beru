@@ -2,20 +2,23 @@
      GitHub supports image align attributes; avoid CSS-dependent layouts. -->
 
 <a href="https://github.com/4beru?tab=repositories">
-  <img align="left" width="245" src="./assets/principal_banner.gif" alt="Aberu — animated main banner">
+  <img align="left" width="340" src="./assets/principal_banner.gif" alt="Aberu — animated main banner">
 </a>
 <img align="right" height="600" src="./assets/aberu-vertical-banner.png" alt="Aberu — vertical banner">
 
 **↖ Aberu — software with intention**<br>
 I build software where engineering meets design.<br>
 Native apps, developer tools, systems, and creative web experiences.<br>
-Drawn to performance, visual computing, and thoughtful details.<br>
-I like building a little bit of everything — but never just anything.<br>
 
-<p>
-  <a href="https://github.com/4beru?tab=followers"><img src="https://img.shields.io/github/followers/4beru?style=flat&label=followers&color=C62C2A" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=4beru&color=C62C2A&style=flat&label=profile+views" alt="Profile views">
-</p>
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Nix](https://img.shields.io/badge/NIX-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+### Achievements
+
+<img width="480" src="./github-achievements.svg" alt="GitHub Achievements">
+
 
 ### Projects
 
