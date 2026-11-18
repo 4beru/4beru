@@ -1,13 +1,17 @@
-
 name: GitHub Space Shooter
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Run after GitHub Metrics to reduce simultaneous pushes to main.
+    - cron: '25 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: space-shooter-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -17,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
@@ -27,4 +31,43 @@ jobs:
           output-path: game.gif
           strategy: random
           fps: 40
-          no-amend: true
+          no-commit: true
+
+      - name: Commit and push without overwriting remote changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Preserve the generated GIF while synchronizing the checkout.
+          cp game.gif "$RUNNER_TEMP/space-shooter.gif"
+
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt of 5"
+
+            git fetch origin main
+            git reset --hard origin/main
+
+            cp "$RUNNER_TEMP/space-shooter.gif" game.gif
+            git add -- game.gif
+
+            if git diff --cached --quiet; then
+              echo "game.gif is already up to date."
+              exit 0
+            fi
+
+            git commit -m "Update space shooter game GIF"
+
+            if git push origin HEAD:main; then
+              echo "Space Shooter GIF updated successfully."
+              exit 0
+            fi
+
+            echo "Remote branch moved during push; retrying..."
+            sleep $((attempt * 2))
+          done
+
+          echo "Unable to push game.gif after 5 attempts." >&2
+          exit 1
