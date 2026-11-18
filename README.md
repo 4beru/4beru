@@ -1,7 +1,7 @@
 <img
   align="right"
   width="22%"
-  src="./assets/aberu-vertical-banner.png"
+  src="./assets/aberu-vertical-banner.webp"
   alt="Aberu — vertical banner"
 />
 
@@ -9,7 +9,7 @@
   <img
     align="left"
     width="71%"
-    src="./assets/panoramic-banner.gif"
+    src="./assets/panoramic-banner.webp"
     alt="Aberu — animated main banner"
   />
 </a>
