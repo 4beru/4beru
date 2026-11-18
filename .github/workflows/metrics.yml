@@ -30,3 +30,4 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_only: developer, forker, stargazer, deployer
