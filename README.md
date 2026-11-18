@@ -42,29 +42,29 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
-    alt="Most Used Languages"
-    width="40%"
-  />
-</p>
+
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-4beru.vercel.app/?username=4beru&amp;title=MultiLanguage,Commits,Repositories,PullRequest&amp;theme=onedark&amp;column=4"
+    width="47%"
+    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
+    alt="Most Used Languages"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="27%"
+    src="https://github-profile-trophy-4beru.vercel.app/?username=4beru&amp;title=MultiLanguage,Commits,Repositories,PullRequest&amp;theme=onedark&amp;column=2"
     alt="GitHub Trophies"
   />
 </p>
 
-
-<h3 align="center">🏆 GitHub Achievements</h3>
+<br clear="both">
 
 <p align="center">
   <img
     src="./github-achievements.svg"
     alt="GitHub Achievements"
-    width="95%"
+    width="85%"
   />
 </p>
 
