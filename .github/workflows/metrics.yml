@@ -2,10 +2,15 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se actualiza todos los días a medianoche
-  workflow_dispatch:    # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches: [ "main" ] # Cambia a "master" si tu rama principal se llama así
+    branches: [main]
+
+# Avoid simultaneous attempts to update the same generated SVG.
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
 
 jobs:
   github-metrics:
@@ -14,11 +19,15 @@ jobs:
       contents: write
     steps:
       - name: Generar Achievements
-        uses: lowlighter/metrics@latest
+        # Maintained community fork with Projects V2 GraphQL support.
+        # Pin the action and build from this revision, not an unrelated prebuilt image.
+        uses: gh-metrics/metrics@0252603d89e89b96f0413c3cb6b0649b64387ba9
         with:
           filename: github-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          use_prebuilt_image: no
+          plugins_errors_fatal: yes
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: detailed # Usa "compact" para una vista resumida
-          plugin_achievements_threshold: C      # Rango mínimo a mostrar: S, A, B, C o X
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
