@@ -4,7 +4,7 @@
 <a href="https://github.com/4beru?tab=repositories">
   <img align="left" width="330" hspace="12" src="./assets/principal_banner.gif" alt="Aberu — animated main banner">
 </a>
-<img align="right" height="600" hspace="24" src="./assets/aberu-vertical-banner.png" alt="Aberu — vertical banner">
+<img align="right" height="600" src="./assets/aberu-vertical-banner.png" alt="Aberu — vertical banner">
 
 **↖ Aberu — software with intention**<br>
 I build software where engineering meets design.<br>
