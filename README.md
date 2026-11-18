@@ -1,7 +1,7 @@
 
 <img
   align="right"
-  width="24%"
+  width="26%"
   src="./assets/aberu-vertical-banner.png"
   alt="Aberu — vertical banner"
 />
@@ -9,7 +9,7 @@
 <a href="https://github.com/4beru?tab=repositories">
   <img
     width="73%"
-    src="./assets/city-banner.gif"
+    src="./assets/principal_banner.gif"
     alt="Aberu — animated main banner"
   />
 </a>
