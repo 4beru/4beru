@@ -9,7 +9,7 @@
   <img
     align="left"
     width="71%"
-    src="./assets/principal_banner.gif"
+    src="./assets/panoramic-banner.gif"
     alt="Aberu — animated main banner"
   />
 </a>
