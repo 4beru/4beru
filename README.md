@@ -16,7 +16,7 @@
 
 <br clear="left">
 
-#### 🐈 Somewhere between code and creativity
+### 🐈 Somewhere between code and creativity
 
 <p align="justify">
   Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas.
