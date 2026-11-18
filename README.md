@@ -1,6 +1,6 @@
 <img
   align="right"
-  width="24%"
+  width="23%"
   src="./assets/aberu-vertical-banner.png"
   alt="Aberu — vertical banner"
 />
