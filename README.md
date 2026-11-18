@@ -36,6 +36,14 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 **[Zen Space](https://github.com/4beru/zen-homepage-ink)** is my independent creative venture, built around a simple idea: great digital experiences should feel as thoughtful as they are functional. It's a home for my selected work, creative explorations, and the ideas and inspirations that shape how I think, design, and build. More than a portfolio, it's a glimpse into my perspective and what we could create together.
 
+  <p align="center">
+    <img
+      src="./game.gif"
+      alt="GitHub Space Shooter"
+      width="70%"
+    />
+  </p>
+
   <p align="right">
     elsewhere ↗ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
   </p>
