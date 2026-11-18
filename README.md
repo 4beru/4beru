@@ -22,10 +22,9 @@
 Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas. I love crafting apps, exploring creative interfaces, and figuring out how things work. Always curious, usually working on some side project, and constantly learning something new along the way. Outside of coding, I enjoy meeting new people, sharing ideas, and having a good time.
 </p>
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Oreilly](https://img.shields.io/badge/oreilly-%23D3002D.svg?style=for-the-badge&logo=oreilly&logoColor=white&logoSize=auto)
 
