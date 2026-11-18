@@ -2,9 +2,9 @@
      GitHub supports image align attributes; avoid CSS-dependent layouts. -->
 
 <a href="https://github.com/4beru?tab=repositories">
-  <img align="left" width="340" src="./assets/principal_banner.gif" alt="Aberu — animated main banner">
+  <img align="left" width="330" hspace="12" src="./assets/principal_banner.gif" alt="Aberu — animated main banner">
 </a>
-<img align="right" height="600" src="./assets/aberu-vertical-banner.png" alt="Aberu — vertical banner">
+<img align="right" height="600" hspace="24" src="./assets/aberu-vertical-banner.png" alt="Aberu — vertical banner">
 
 **↖ Aberu — software with intention**<br>
 I build software where engineering meets design.<br>
@@ -15,10 +15,6 @@ Native apps, developer tools, systems, and creative web experiences.<br>
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-### Achievements
-
-<img width="480" src="./github-achievements.svg" alt="GitHub Achievements">
-
 
 ### Projects
 
