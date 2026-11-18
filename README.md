@@ -70,4 +70,12 @@ And more in my [repositories](https://github.com/4beru?tab=repositories).
   />
 </p>
 
+<p align="center">
+  <img
+    src="./game.gif"
+    alt="GitHub Space Shooter"
+    width="100%"
+  />
+</p>
+
 
