@@ -32,6 +32,14 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 ### Projects
 
+<img
+  align="right"
+  width="40%"
+  src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
+  alt="Most Used Languages"
+/>
+
+
 [Zen Space](https://github.com/4beru/zen-homepage-ink) — Creative digital experiences with Nuxt, GSAP, and motion design.<br>
 [Fluent Kit](https://github.com/4beru/qt6-fluent-kit) — A cross-platform Fluent-style UI component library for Qt6 and C++.<br>
 [Codebase Topography](https://github.com/4beru/codebase-topography) — Exploring codebases as interactive 2D maps and 3D cities.<br>
@@ -39,17 +47,21 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 [Aberu Blog](https://github.com/4beru/aberu-blog) — Notes and long-form writing about software engineering.<br>
 And more in my [repositories](https://github.com/4beru?tab=repositories).
 
+<br clear="right">
+
 <p align="right">
   more @ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
 </p>
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
-    alt="Most Used Languages"
-    width="40%"
-  />
+
+
+
+
+
+
+<p align="right">
+  more @ <a href="https://github.com/4beru">github</a> · <a href="https://github.com/4beru/aberu-blog">blog</a> · <a href="https://fluentkit.aberu.site/">fluent kit</a>
 </p>
 
 <p align="center">
