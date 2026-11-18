@@ -19,10 +19,7 @@
 ### 🐈 Somewhere between code and creativity
 
 <p align="justify">
-  Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas.
-  I love crafting apps, exploring creative interfaces, and figuring out how things work.
-  Always curious, usually working on some side project, and constantly learning something new.
-  Outside of coding, I enjoy meeting new people, sharing ideas, and having a good time.
+Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas. I love crafting apps, exploring creative interfaces, and figuring out how things work. Always curious, usually working on some side project, and constantly learning something new along the way. Outside of coding, I enjoy meeting new people, sharing ideas, and having a good time.
 </p>
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
