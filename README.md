@@ -1,4 +1,3 @@
-
 <img
   align="right"
   width="26%"
@@ -8,13 +7,14 @@
 
 <a href="https://github.com/4beru?tab=repositories">
   <img
-    width="73%"
+    align="left"
+    width="72%"
     src="./assets/principal_banner.gif"
     alt="Aberu — animated main banner"
   />
 </a>
 
-<br>
+<br clear="left">
 
 **↖ Aberu — software with intention**<br>
 I build software where engineering meets design.<br>
