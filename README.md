@@ -42,38 +42,40 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 </p>
 
-
-
-<p align="center">
-  <img
-    width="47%"
-    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
-    alt="Most Used Languages"
-  />
-  &nbsp;&nbsp;
-  <img
-    width="27%"
-    src="https://github-profile-trophy-4beru.vercel.app/?username=4beru&amp;title=MultiLanguage,Commits,Repositories,PullRequest&amp;theme=onedark&amp;column=2"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<br clear="both">
-
 <p align="center">
   <img
     src="./github-achievements.svg"
     alt="GitHub Achievements"
-    width="85%"
+    width="45%"
   />
+</p>
+
+---
+
+### 👾 The journey so far
+
+<p align="justify">
+I've always enjoyed learning by building things. What started as small experiments gradually turned into projects, new skills, and different ways of thinking. Along the way, I've explored technologies, made mistakes, and discovered what I truly enjoy creating. These numbers are just a small glimpse of that ongoing journey.
 </p>
 
 <p align="center">
   <img
     src="./game.gif"
     alt="GitHub Space Shooter"
-    width="100%"
+    width="90%"
   />
 </p>
 
-
+<p align="center">
+  <img
+    width="48%"
+    src="https://raw.githubusercontent.com/4beru/github-stats/generated/languages.svg#gh-dark-mode-only"
+    alt="Most Used Languages"
+  />
+  &nbsp;&nbsp;
+  <img
+    width="28%"
+    src="https://github-profile-trophy-4beru.vercel.app/?username=4beru&amp;title=MultiLanguage,Commits,Repositories,PullRequest&amp;theme=onedark&amp;column=2"
+    alt="GitHub Trophies"
+  />
+</p>
