@@ -1,0 +1,24 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se actualiza todos los días a medianoche
+  workflow_dispatch:    # Permite ejecutarlo manualmente
+  push:
+    branches: [ "main" ] # Cambia a "master" si tu rama principal se llama así
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generar Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed # Usa "compact" para una vista resumida
+          plugin_achievements_threshold: C      # Rango mínimo a mostrar: S, A, B, C o X
