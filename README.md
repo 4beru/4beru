@@ -8,7 +8,7 @@
 <a href="https://github.com/4beru?tab=repositories">
   <img
     align="left"
-    width="70%"
+    width="71%"
     src="./assets/principal_banner.gif"
     alt="Aberu — animated main banner"
   />
