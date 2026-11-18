@@ -23,9 +23,9 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT" />
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=D04A37" alt="Expo" />
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
   <img src="https://img.shields.io/badge/Oreilly-%23D3002D.svg?style=for-the-badge&logo=oreilly&logoColor=white" alt="O'Reilly" />
 </p>
