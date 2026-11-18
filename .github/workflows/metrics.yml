@@ -31,12 +31,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_only: developer, forker, stargazer, deployer
-          # Arrange the four compact achievements in a 2x2 grid.
-          extras_css: |
-            .achievements.compact {
-              display: grid;
-              grid-template-columns: repeat(2, minmax(0, 1fr));
-              justify-items: center;
-              column-gap: 16px;
-              row-gap: 18px;
-            }
