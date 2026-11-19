@@ -34,7 +34,7 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 <p align="justify">
   <strong>
-    <a href="https://github.com/4beru/zen-homepage-ink">Zen Space</a>
+    <a href="https://zenspace.lat">Zen Space</a>
   </strong>
   is my independent creative venture, built around a simple idea: great digital experiences should feel as thoughtful as they are functional. It's a home for my selected work, creative explorations, and the ideas and inspirations that shape how I think, design, and build. More than a portfolio, it's a glimpse into my perspective and what we could create together.
 </p>
@@ -49,9 +49,9 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 
 <p align="right">
   elsewhere ↗
-  <a href="https://github.com/4beru">github</a> ·
-  <a href="https://github.com/4beru/aberu-blog">blog</a> ·
-  <a href="https://fluentkit.aberu.site/">fluent kit</a>
+  <a href="https://github.com/4beru?tab=repositories">repos</a> ·
+  <a href="https://aberu.site">about me</a> ·
+  <a href="https://blog.aberu.site">blog</a>
 </p>
 
 ---
