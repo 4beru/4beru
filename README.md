@@ -6,7 +6,7 @@
 />
 <a href="https://github.com/4beru?tab=repositories">
   <img
-    width="66%"
+    width="71%"
     src="./assets/panoramic-banner.gif"
     alt="Aberu — animated main banner"
     align="left"
@@ -28,12 +28,12 @@ Hey, I'm **Aberu** — an Android & cross-platform engineer with a systems minds
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
-  <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=42A5F5" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Qt" />
-  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Nix-161b22?style=for-the-badge&logo=nixos&logoColor=7EBAE4" alt="Nix" />
+  <img src="https://img.shields.io/badge/Android-26193b?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-26193b?style=for-the-badge&logo=flutter&logoColor=42A5F5" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Qt-26193b?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Qt" />
+  <img src="https://img.shields.io/badge/C%2B%2B-26193b?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-26193b?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Nix-26193b?style=for-the-badge&logo=nixos&logoColor=7EBAE4" alt="Nix" />
 </p>
 
 ### 🪐 Where ideas find their space
