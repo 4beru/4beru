@@ -20,7 +20,9 @@
 
 Hey, I'm **Aberu** — an Android & cross-platform engineer with a systems mindset. I build software where clean, tactile interfaces meet low-level performance: pairing mobile and desktop frameworks with **C++ / Rust** cores (JNI/FFI) and reproducible **Nix** environments. Less boilerplate, more intentional engineering — from architecture down to the OS layer.
 
-<sub>Core stack & daily drivers</sub>
+<p align="center">
+  <sub>Core stack & daily drivers</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
