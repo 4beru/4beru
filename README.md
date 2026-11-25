@@ -1,16 +1,15 @@
 <img
   align="right"
   width="22%"
-  src="./assets/aberu-vertical-banner.webp"
+  src="./assets/aberu-vertical-banner.png"
   alt="Aberu — vertical banner"
 />
-
 <a href="https://github.com/4beru?tab=repositories">
   <img
-    align="left"
-    width="71%"
+    width="72%"
     src="./assets/panoramic-banner.gif"
     alt="Aberu — animated main banner"
+    align="left"
   />
 </a>
 
@@ -18,7 +17,11 @@
 
 ### 🐈 Somewhere between code and creativity
 
+<div align="justify">
+
 Hey, I'm **Aberu** — an Android & cross-platform engineer with a systems mindset. I build software where clean, tactile interfaces meet low-level performance: pairing mobile and desktop frameworks with **C++ / Rust** cores (JNI/FFI) and reproducible **Nix** environments. Less boilerplate, more intentional engineering — from architecture down to the OS layer.
+
+</div>
 
 <p align="center">
   <sub>Core stack & daily drivers</sub>
@@ -35,8 +38,11 @@ Hey, I'm **Aberu** — an Android & cross-platform engineer with a systems minds
 
 ### 🪐 Where ideas find their space
 
+<div align="justify">
+  
 [**Zen Space**](https://zenspace.lat) is my independent software studio and creative lab. Built on a simple standard: digital products should be as solid under the hood as they are sharp on the surface. It’s where I ship production apps, open-source UI tooling, and custom software — less of a traditional portfolio, more proof of how I architect, design, and deliver.
 
+</div>
 
 
 <p align="center">
