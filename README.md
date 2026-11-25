@@ -6,7 +6,7 @@
 />
 <a href="https://github.com/4beru?tab=repositories">
   <img
-    width="72%"
+    width="71%"
     src="./assets/panoramic-banner.gif"
     alt="Aberu — animated main banner"
     align="left"
