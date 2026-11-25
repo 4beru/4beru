@@ -1,12 +1,12 @@
 <img
   align="right"
-  width="21%"
+  width="22%"
   src="./assets/aberu-vertical-banner.png"
   alt="Aberu — vertical banner"
 />
 <a href="https://github.com/4beru?tab=repositories">
   <img
-    width="66%"
+    width="68%"
     src="./assets/panoramic-banner.gif"
     alt="Aberu — animated main banner"
     align="left"
