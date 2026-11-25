@@ -18,26 +18,24 @@
 
 ### 🐈 Somewhere between code and creativity
 
-<p align="justify">
-Hey, I'm Aberu, a software developer who enjoys building things and experimenting with new ideas. I love crafting apps, exploring creative interfaces, and figuring out how things work. Always curious, usually working on some side project, and constantly learning something new along the way. Outside of coding, I enjoy meeting new people, sharing ideas, and having a good time.
-</p>
+Hey, I'm **Aberu** — an Android & cross-platform engineer with a systems mindset. I build software where clean, tactile interfaces meet low-level performance: pairing mobile and desktop frameworks with **C++ / Rust** cores (JNI/FFI) and reproducible **Nix** environments. Less boilerplate, more intentional engineering — from architecture down to the OS layer.
+
+<sub>Core stack & daily drivers</sub>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
-  <img src="https://img.shields.io/badge/Oreilly-%23D3002D.svg?style=for-the-badge&logo=oreilly&logoColor=white" alt="O'Reilly" />
+  <img src="https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=42A5F5" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Qt-161b22?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Qt" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Nix-161b22?style=for-the-badge&logo=nixos&logoColor=7EBAE4" alt="Nix" />
 </p>
 
 ### 🪐 Where ideas find their space
 
-<p align="justify">
-  <strong>
-    <a href="https://zenspace.lat">Zen Space</a>
-  </strong>
-  is my independent creative venture, built around a simple idea: great digital experiences should feel as thoughtful as they are functional. It's a home for my selected work, creative explorations, and the ideas and inspirations that shape how I think, design, and build. More than a portfolio, it's a glimpse into my perspective and what we could create together.
-</p>
+[**Zen Space**](https://zenspace.lat) is my independent software studio and creative lab. Built on a simple standard: digital products should be as solid under the hood as they are sharp on the surface. It’s where I ship production apps, open-source UI tooling, and custom software — less of a traditional portfolio, more proof of how I architect, design, and deliver.
+
+
 
 <p align="center">
   <img
@@ -59,7 +57,7 @@ Hey, I'm Aberu, a software developer who enjoys building things and experimentin
 ### 👾 The journey so far
 
 <p align="justify">
-I've always enjoyed learning by building things. What started as small experiments gradually turned into projects, new skills, and different ways of thinking. Along the way, I've explored technologies, made mistakes, and discovered what I truly enjoy creating. These numbers are just a small glimpse of that ongoing journey.
+I choose tools by the problem, not the hype — which is why my history moves naturally across Kotlin, C++, Rust, Dart, Python, and the web. Behind these numbers are years of consistent shipping: production apps, native libraries, systems experiments, and developer tooling built without boxing myself into a single layer of the stack.
 </p>
 
 
